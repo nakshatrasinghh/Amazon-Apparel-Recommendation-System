@@ -1,6 +1,6 @@
 # Amazon-Apparel-Recommendation-System
 
-Statement: It is a recommendation System based on Content based Clustering . Similar items are grouped or clustered using Pairwise Eucledean Distances.
+Statement: It is a recommendation System based on Content based Clustering . Similar items are grouped or clustered using Pairwise Cosine Distances.
 
 Problem statement :
 Build a recommendation engine which suggests similar products to the given product in any e-commerce websites ex. Amazon.com, myntra.com etc.
