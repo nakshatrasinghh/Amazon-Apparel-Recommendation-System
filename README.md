@@ -16,7 +16,7 @@ The recommendation engine, uses information about 1,80,000 products and each pro
 
 1.Title of the product 2.Brand of the product 3.Color of the product 4.Type of the product 5.Image of the apparel , etc...
 
-**Notebook in Colab 👇**
+**Run Notebook in Colab 👇**
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Amazon-Apparel-Recommendation-System/blob/master/Amazon_Recommendation_System.ipynb)
 
