@@ -4,7 +4,7 @@ Made with ❤️ by Nakshatra Singh.
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/nakshatrasinghh/).
 
-If you want to build something together, feel free to email me at - nakshatradsu@gmail.com :)
+If you want to build something together, feel free to email me at - nakshatradsu@gmail.com 📧.
 
 👉 If you like my work, check out my other [Repositories!](https://github.com/nakshatrasinghh?tab=repositories) 👈
 
@@ -22,7 +22,7 @@ The recommendation engine, uses information about 1,80,000 products and each pro
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nakshatrasinghh/Amazon-Apparel-Recommendation-System/blob/master/Amazon_Recommendation_System.ipynb)
 
-Click on the icon to run the notebook in colab directly. The dataset is already uploaded on my drive, you don't need to download anything to get started :)
+Click on the icon to run the notebook directly in Google colab. This notebook runs without downloading the dataset (Thanks to gdown), you don't need to download anything to get started 💪. Just click, Learn and Explore 🔭🤗.
 
 # Message Me
 Feel free to click on the icon to personally message me on Whatsapp if you have any doubts :)
