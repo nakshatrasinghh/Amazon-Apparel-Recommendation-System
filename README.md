@@ -10,13 +10,13 @@ If you want to build something together, feel free to email me at - nakshatradsu
 
 👉 If you like my work, check out my other [Repositories!](https://github.com/nakshatrasinghh?tab=repositories) 👈
 
-### **Statement**: 
+### **Statement** 💭: 
 It is a recommendation System based on Content based Clustering . Similar items are grouped or clustered using Pairwise Cosine Distances.
 
-### **Problem statement**:
+### **Problem statement** 🤔:
 Build a recommendation engine which suggests similar products to the given product in any e-commerce websites ex. Amazon.com, myntra.com etc.
 
-### **Objective**:
+### **Objective** 🔍:
 The recommendation engine, uses information about 1,80,000 products and each product will have multiple features named
 
 1.Title of the product 2.Brand of the product 3.Color of the product 4.Type of the product 5.Image of the apparel , etc...
